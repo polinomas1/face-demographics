@@ -1,0 +1,6 @@
+deepface
+tf-keras
+opencv-python
+pandas
+tqdm
+matplotlib
